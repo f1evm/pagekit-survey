@@ -1,0 +1,22 @@
+{
+  "name": "fevm/survey",
+  "module": "fevm/survey",
+  "version": "0.0.1",
+  "type": "pagekit-extension",
+  "title": "Survey",
+  "description": "Allows you to add surveys to your Pagekit-based website",
+  "license": "MIT",
+  "authors": [
+    {
+      "name": "Jean-François Huet",
+      "Base on": "Blog of Roman Lossin-Beßler",
+      "SPQR homepage": "https://spqr.wtf"
+    }
+  ],
+  "extra": {
+    "icon": "icon.svg",
+    "scripts": "scripts.php"
+  },
+  "require": {
+  }
+}
